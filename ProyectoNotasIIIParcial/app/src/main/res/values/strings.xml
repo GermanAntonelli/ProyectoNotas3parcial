@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProyectoNotasIIIParcial</string>
+    <string name="tituloNota">tituloNota</string>
+    <string name="descripcionNota">Descripcion Nota</string>
+    <string name="agregarBotonNota">Agregar</string>
+</resources>
